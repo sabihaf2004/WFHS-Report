@@ -1,0 +1,6 @@
+{
+  "name": "ScholarCard - Student Report Card Generator",
+  "description": "Generate individual student report cards in PDF format from uploaded Excel or CSV spreadsheets with automatic grading, validation, live preview, and ZIP bulk export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
